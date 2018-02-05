@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=GND Pin=MT21-1
+Change Component Footprint: Designator=MT9 Old Footprint=SMT_spacer_M2_6mm New Footprint=SMT_spacer_M2_6mm differentiation with CMP-024-0033
+Change Component Footprint: Designator=MT10 Old Footprint=SMT_spacer_M2_6mm New Footprint=SMT_spacer_M2_6mm differentiation with CMP-024-0033
+Change Component Footprint: Designator=MT11 Old Footprint=SMT_spacer_M2_6mm New Footprint=SMT_spacer_M2_6mm differentiation with CMP-024-0033
+Change Component Footprint: Designator=MT12 Old Footprint=SMT_spacer_M2_6mm New Footprint=SMT_spacer_M2_6mm differentiation with CMP-024-0033
+Change Component Comment : Designator=MT9 Old Comment=9774060243R New Comment=9774060243R modified with no plating through the hole (specific case to ISL-IP component)
+Change Component Comment : Designator=MT10 Old Comment=9774060243R New Comment=9774060243R modified with no plating through the hole (specific case to ISL-IP component)
+Change Component Comment : Designator=MT11 Old Comment=9774060243R New Comment=9774060243R modified with no plating through the hole (specific case to ISL-IP component)
+Change Component Comment : Designator=MT12 Old Comment=9774060243R New Comment=9774060243R modified with no plating through the hole (specific case to ISL-IP component)
+Added Component: Designator=MT4(SMT_spacer_M2_6mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Height"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InternalID"; Value = "100666"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer number"; Value = "9774060243R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Old DB Number"; Value = "17000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMTSO-M3-3ET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part status"; Value = "Prototype"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Name"; Value = "MT_hole_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MT8(SMT_spacer_M2_6mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Height"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InternalID"; Value = "100666"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer number"; Value = "9774060243R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Old DB Number"; Value = "17000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMTSO-M3-3ET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part status"; Value = "Prototype"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Name"; Value = "MT_hole_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=MT4-1
+Added Pin To Net: NetName=GND Pin=MT8-1
+Added Member To Class: ClassName=am2067_4R_PCB Member=Component MT1 9774060243R
+Added Member To Class: ClassName=am2067_4R_PCB Member=Component MT2 9774060243R
+Added Member To Class: ClassName=am2067_4R_PCB Member=Component MT3 9774060243R
+Added Member To Class: ClassName=am2067_4R_PCB Member=Component MT4 9774060243R
+Added Member To Class: ClassName=am2067_4R_PCB Member=Component MT5 9774060243R
+Added Member To Class: ClassName=am2067_4R_PCB Member=Component MT7 9774060243R
+Added Member To Class: ClassName=am2067_4R_PCB Member=Component MT8 9774060243R
+Added Member To Class: ClassName=am2067_4R_PCB Member=Component MT12 9774060243R modified with no plating through the hole (specific case to ISL-IP component)
+Added Member To Class: ClassName=am2067_4R_PCB Member=Component MT13 9774060243R
+Added Member To Class: ClassName=am2067_4R_PCB Member=Component MT14 9774060243R
+Added Member To Class: ClassName=am2067_4R_PCB Member=Component MT17 9774060243R
+Added Room: Name=am2067_4R_PCB

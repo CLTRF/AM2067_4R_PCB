@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=NetJ1_1 Pin=MT10-1
+Removed Pin From Net: NetName=NetJ1_1 Pin=MT12-1
+Added Pin To Net: NetName=GND Pin=MT2-1
+Added Pin To Net: NetName=GND Pin=MT3-1
+Added Pin To Net: NetName=GND Pin=MT4-1
+Added Pin To Net: NetName=GND Pin=MT5-1
+Added Pin To Net: NetName=GND Pin=MT6-1
+Added Pin To Net: NetName=GND Pin=MT7-1
+Added Pin To Net: NetName=GND Pin=MT8-1
+Added Pin To Net: NetName=GND Pin=MT9-1
+Added Pin To Net: NetName=GND Pin=MT10-1
+Added Pin To Net: NetName=GND Pin=MT11-1
+Added Pin To Net: NetName=GND Pin=MT12-1
+Added Pin To Net: NetName=GND Pin=MT13-1
+Added Pin To Net: NetName=GND Pin=MT14-1
+Added Pin To Net: NetName=GND Pin=MT17-1
+Added Pin To Net: NetName=GND Pin=MT18-1
+Added Member To Class: ClassName=am2067_4R_PCB Member=Component J1 SMP Male R/A TH
+Added Member To Class: ClassName=am2067_4R_PCB Member=Component MT1 9774060243R
+Added Member To Class: ClassName=am2067_4R_PCB Member=Component MT2 9774060243R
+Added Member To Class: ClassName=am2067_4R_PCB Member=Component MT3 9774060243R
+Added Member To Class: ClassName=am2067_4R_PCB Member=Component MT4 9774060243R
+Added Member To Class: ClassName=am2067_4R_PCB Member=Component MT5 9774060243R
+Added Member To Class: ClassName=am2067_4R_PCB Member=Component MT6 9774060243R
+Added Member To Class: ClassName=am2067_4R_PCB Member=Component MT7 9774060243R
+Added Member To Class: ClassName=am2067_4R_PCB Member=Component MT8 9774060243R
+Added Member To Class: ClassName=am2067_4R_PCB Member=Component MT9 9774060243R
+Added Member To Class: ClassName=am2067_4R_PCB Member=Component MT10 9774060243R
+Added Member To Class: ClassName=am2067_4R_PCB Member=Component MT11 9774060243R
+Added Member To Class: ClassName=am2067_4R_PCB Member=Component MT12 9774060243R
+Added Member To Class: ClassName=am2067_4R_PCB Member=Component MT13 9774060243R
+Added Member To Class: ClassName=am2067_4R_PCB Member=Component MT14 9774060243R
+Added Member To Class: ClassName=am2067_4R_PCB Member=Component MT15 9774060243R
+Added Member To Class: ClassName=am2067_4R_PCB Member=Component MT16 9774060243R
+Added Member To Class: ClassName=am2067_4R_PCB Member=Component MT17 9774060243R
+Added Member To Class: ClassName=am2067_4R_PCB Member=Component MT18 9774060243R
+Added Member To Class: ClassName=am2067_4R_PCB Member=Component MT19 9774060243R
+Added Member To Class: ClassName=am2067_4R_PCB Member=Component MT20 9774060243R

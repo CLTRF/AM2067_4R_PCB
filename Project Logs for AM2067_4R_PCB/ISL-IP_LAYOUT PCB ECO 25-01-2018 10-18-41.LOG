@@ -1,0 +1,258 @@
+Added Component: Designator=J1(SF1212-6000-TD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Height"; Value = "4.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InternalID"; Value = "100288"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Amphenol / SV Microwave"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer number"; Value = "SF1212-6000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Old DB Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part status"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MT1(SMT_spacer_M2_6mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Height"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InternalID"; Value = "100666"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer number"; Value = "9774060243R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Old DB Number"; Value = "17000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMTSO-M3-3ET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part status"; Value = "Prototype"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Name"; Value = "MT_hole_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MT2(SMT_spacer_M2_6mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Height"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InternalID"; Value = "100666"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer number"; Value = "9774060243R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Old DB Number"; Value = "17000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMTSO-M3-3ET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part status"; Value = "Prototype"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Name"; Value = "MT_hole_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MT3(SMT_spacer_M2_6mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Height"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InternalID"; Value = "100666"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer number"; Value = "9774060243R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Old DB Number"; Value = "17000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMTSO-M3-3ET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part status"; Value = "Prototype"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Name"; Value = "MT_hole_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MT4(SMT_spacer_M2_6mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Height"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InternalID"; Value = "100666"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer number"; Value = "9774060243R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Old DB Number"; Value = "17000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMTSO-M3-3ET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part status"; Value = "Prototype"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Name"; Value = "MT_hole_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MT5(SMT_spacer_M2_6mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Height"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InternalID"; Value = "100666"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer number"; Value = "9774060243R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Old DB Number"; Value = "17000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMTSO-M3-3ET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part status"; Value = "Prototype"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Name"; Value = "MT_hole_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MT6(SMT_spacer_M2_6mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Height"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InternalID"; Value = "100666"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer number"; Value = "9774060243R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Old DB Number"; Value = "17000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMTSO-M3-3ET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part status"; Value = "Prototype"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Name"; Value = "MT_hole_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MT7(SMT_spacer_M2_6mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Height"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InternalID"; Value = "100666"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer number"; Value = "9774060243R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Old DB Number"; Value = "17000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMTSO-M3-3ET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part status"; Value = "Prototype"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Name"; Value = "MT_hole_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MT8(SMT_spacer_M2_6mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Height"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InternalID"; Value = "100666"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer number"; Value = "9774060243R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Old DB Number"; Value = "17000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMTSO-M3-3ET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part status"; Value = "Prototype"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Name"; Value = "MT_hole_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MT9(SMT_spacer_M2_6mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Height"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InternalID"; Value = "100666"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer number"; Value = "9774060243R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Old DB Number"; Value = "17000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMTSO-M3-3ET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part status"; Value = "Prototype"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Name"; Value = "MT_hole_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MT10(SMT_spacer_M2_6mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Height"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InternalID"; Value = "100666"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer number"; Value = "9774060243R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Old DB Number"; Value = "17000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMTSO-M3-3ET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part status"; Value = "Prototype"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Name"; Value = "MT_hole_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MT11(SMT_spacer_M2_6mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Height"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InternalID"; Value = "100666"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer number"; Value = "9774060243R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Old DB Number"; Value = "17000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMTSO-M3-3ET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part status"; Value = "Prototype"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Name"; Value = "MT_hole_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MT12(SMT_spacer_M2_6mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Height"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InternalID"; Value = "100666"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer number"; Value = "9774060243R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Old DB Number"; Value = "17000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMTSO-M3-3ET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part status"; Value = "Prototype"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Name"; Value = "MT_hole_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MT13(SMT_spacer_M2_6mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Height"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InternalID"; Value = "100666"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer number"; Value = "9774060243R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Old DB Number"; Value = "17000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMTSO-M3-3ET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part status"; Value = "Prototype"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Name"; Value = "MT_hole_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MT14(SMT_spacer_M2_6mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Height"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InternalID"; Value = "100666"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer number"; Value = "9774060243R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Old DB Number"; Value = "17000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMTSO-M3-3ET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part status"; Value = "Prototype"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Name"; Value = "MT_hole_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MT15(SMT_spacer_M2_6mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Height"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InternalID"; Value = "100666"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer number"; Value = "9774060243R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Old DB Number"; Value = "17000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMTSO-M3-3ET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part status"; Value = "Prototype"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Name"; Value = "MT_hole_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MT16(SMT_spacer_M2_6mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Height"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InternalID"; Value = "100666"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer number"; Value = "9774060243R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Old DB Number"; Value = "17000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMTSO-M3-3ET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part status"; Value = "Prototype"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Name"; Value = "MT_hole_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MT17(SMT_spacer_M2_6mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Height"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InternalID"; Value = "100666"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer number"; Value = "9774060243R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Old DB Number"; Value = "17000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMTSO-M3-3ET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part status"; Value = "Prototype"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Name"; Value = "MT_hole_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MT18(SMT_spacer_M2_6mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Height"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InternalID"; Value = "100666"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer number"; Value = "9774060243R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Old DB Number"; Value = "17000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMTSO-M3-3ET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part status"; Value = "Prototype"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Name"; Value = "MT_hole_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MT19(SMT_spacer_M2_6mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Height"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InternalID"; Value = "100666"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer number"; Value = "9774060243R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Old DB Number"; Value = "17000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMTSO-M3-3ET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part status"; Value = "Prototype"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Name"; Value = "MT_hole_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MT20(SMT_spacer_M2_6mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Height"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "InternalID"; Value = "100666"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer number"; Value = "9774060243R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Old DB Number"; Value = "17000000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SMTSO-M3-3ET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part status"; Value = "Prototype"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol Name"; Value = "MT_hole_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-0
+Added Pin To Net: NetName=GND Pin=J1-0
+Added Pin To Net: NetName=GND Pin=J1-0
+Added Pin To Net: NetName=GND Pin=J1-0
+Added Pin To Net: NetName=GND Pin=MT1-1
+Added Pin To Net: NetName=GND Pin=MT2-1
+Added Pin To Net: NetName=GND Pin=MT3-1
+Added Pin To Net: NetName=GND Pin=MT4-1
+Added Pin To Net: NetName=GND Pin=MT5-1
+Added Pin To Net: NetName=GND Pin=MT6-1
+Added Pin To Net: NetName=GND Pin=MT7-1
+Added Pin To Net: NetName=GND Pin=MT8-1
+Added Pin To Net: NetName=GND Pin=MT9-1
+Added Pin To Net: NetName=GND Pin=MT10-1
+Added Pin To Net: NetName=GND Pin=MT11-1
+Added Pin To Net: NetName=GND Pin=MT12-1
+Added Pin To Net: NetName=GND Pin=MT13-1
+Added Pin To Net: NetName=GND Pin=MT14-1
+Added Pin To Net: NetName=GND Pin=MT15-1
+Added Pin To Net: NetName=GND Pin=MT16-1
+Added Pin To Net: NetName=GND Pin=MT17-1
+Added Pin To Net: NetName=GND Pin=MT18-1
+Added Pin To Net: NetName=GND Pin=MT19-1
+Added Pin To Net: NetName=GND Pin=MT20-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Net: Name=NetJ1_1
+Added Class: Name=am2067_4R_PCB

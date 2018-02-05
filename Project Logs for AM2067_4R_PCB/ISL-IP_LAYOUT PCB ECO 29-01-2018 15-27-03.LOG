@@ -1,0 +1,33 @@
+Change Component DesignItemId : Designator=MT1 Old DesignItemId=CMP-024-0033-2 New DesignItemId=CMP-024-0033-3
+Change Component DesignItemId : Designator=MT2 Old DesignItemId=CMP-024-0033-2 New DesignItemId=CMP-024-0033-3
+Change Component DesignItemId : Designator=MT3 Old DesignItemId=CMP-024-0033-2 New DesignItemId=CMP-024-0033-3
+Change Component DesignItemId : Designator=MT4 Old DesignItemId=CMP-024-0033-2 New DesignItemId=CMP-024-0033-3
+Change Component DesignItemId : Designator=MT5 Old DesignItemId=CMP-024-0033-2 New DesignItemId=CMP-024-0033-3
+Change Component DesignItemId : Designator=MT6 Old DesignItemId=CMP-024-0033-2 New DesignItemId=CMP-024-0033-3
+Change Component DesignItemId : Designator=MT7 Old DesignItemId=CMP-024-0033-2 New DesignItemId=CMP-024-0033-3
+Change Component DesignItemId : Designator=MT8 Old DesignItemId=CMP-024-0033-2 New DesignItemId=CMP-024-0033-3
+Change Component DesignItemId : Designator=MT13 Old DesignItemId=CMP-024-0033-2 New DesignItemId=CMP-024-0033-3
+Change Component DesignItemId : Designator=MT14 Old DesignItemId=CMP-024-0033-2 New DesignItemId=CMP-024-0033-3
+Change Component DesignItemId : Designator=MT15 Old DesignItemId=CMP-024-0033-2 New DesignItemId=CMP-024-0033-3
+Change Component DesignItemId : Designator=MT16 Old DesignItemId=CMP-024-0033-2 New DesignItemId=CMP-024-0033-3
+Change Component DesignItemId : Designator=MT17 Old DesignItemId=CMP-024-0033-2 New DesignItemId=CMP-024-0033-3
+Change Component DesignItemId : Designator=MT18 Old DesignItemId=CMP-024-0033-2 New DesignItemId=CMP-024-0033-3
+Change Component DesignItemId : Designator=MT19 Old DesignItemId=CMP-024-0033-2 New DesignItemId=CMP-024-0033-3
+Change Component DesignItemId : Designator=MT20 Old DesignItemId=CMP-024-0033-2 New DesignItemId=CMP-024-0033-3
+Change Component Footprint: Designator=MT1 Old Footprint=SMT_spacer_M2_6mm New Footprint=SMT_spacer_M2_6mm
+Change Component Footprint: Designator=MT2 Old Footprint=SMT_spacer_M2_6mm New Footprint=SMT_spacer_M2_6mm
+Change Component Footprint: Designator=MT3 Old Footprint=SMT_spacer_M2_6mm New Footprint=SMT_spacer_M2_6mm
+Change Component Footprint: Designator=MT4 Old Footprint=SMT_spacer_M2_6mm New Footprint=SMT_spacer_M2_6mm
+Change Component Footprint: Designator=MT5 Old Footprint=SMT_spacer_M2_6mm New Footprint=SMT_spacer_M2_6mm
+Change Component Footprint: Designator=MT6 Old Footprint=SMT_spacer_M2_6mm New Footprint=SMT_spacer_M2_6mm
+Change Component Footprint: Designator=MT7 Old Footprint=SMT_spacer_M2_6mm New Footprint=SMT_spacer_M2_6mm
+Change Component Footprint: Designator=MT8 Old Footprint=SMT_spacer_M2_6mm New Footprint=SMT_spacer_M2_6mm
+Change Component Footprint: Designator=MT13 Old Footprint=SMT_spacer_M2_6mm New Footprint=SMT_spacer_M2_6mm
+Change Component Footprint: Designator=MT14 Old Footprint=SMT_spacer_M2_6mm New Footprint=SMT_spacer_M2_6mm
+Change Component Footprint: Designator=MT15 Old Footprint=SMT_spacer_M2_6mm New Footprint=SMT_spacer_M2_6mm
+Change Component Footprint: Designator=MT16 Old Footprint=SMT_spacer_M2_6mm New Footprint=SMT_spacer_M2_6mm
+Change Component Footprint: Designator=MT17 Old Footprint=SMT_spacer_M2_6mm New Footprint=SMT_spacer_M2_6mm
+Change Component Footprint: Designator=MT18 Old Footprint=SMT_spacer_M2_6mm New Footprint=SMT_spacer_M2_6mm
+Change Component Footprint: Designator=MT19 Old Footprint=SMT_spacer_M2_6mm New Footprint=SMT_spacer_M2_6mm
+Change Component Footprint: Designator=MT20 Old Footprint=SMT_spacer_M2_6mm New Footprint=SMT_spacer_M2_6mm
+Added Room: Name=am2067_4R_PCB
